@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Pizza_store_using-React/static/css/main.e310b84c.chunk.css",
+    "main.js": "/Pizza_store_using-React/static/js/main.f62f7b3e.chunk.js",
+    "main.js.map": "/Pizza_store_using-React/static/js/main.f62f7b3e.chunk.js.map",
+    "runtime-main.js": "/Pizza_store_using-React/static/js/runtime-main.606a9781.js",
+    "runtime-main.js.map": "/Pizza_store_using-React/static/js/runtime-main.606a9781.js.map",
+    "static/js/2.1e55cc64.chunk.js": "/Pizza_store_using-React/static/js/2.1e55cc64.chunk.js",
+    "static/js/2.1e55cc64.chunk.js.map": "/Pizza_store_using-React/static/js/2.1e55cc64.chunk.js.map",
+    "static/js/3.e8251840.chunk.js": "/Pizza_store_using-React/static/js/3.e8251840.chunk.js",
+    "static/js/3.e8251840.chunk.js.map": "/Pizza_store_using-React/static/js/3.e8251840.chunk.js.map",
+    "index.html": "/Pizza_store_using-React/index.html",
+    "static/css/main.e310b84c.chunk.css.map": "/Pizza_store_using-React/static/css/main.e310b84c.chunk.css.map",
+    "static/js/2.1e55cc64.chunk.js.LICENSE.txt": "/Pizza_store_using-React/static/js/2.1e55cc64.chunk.js.LICENSE.txt",
+    "static/media/expensive.6449ceef.jpg": "/Pizza_store_using-React/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/Pizza_store_using-React/static/media/margherita.683bc9bb.jpg",
+    "static/media/multiplePizzas.490709e2.jpeg": "/Pizza_store_using-React/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/Pizza_store_using-React/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/Pizza_store_using-React/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/Pizza_store_using-React/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.21a1098f.jpeg": "/Pizza_store_using-React/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLeft.24b07891.jpg": "/Pizza_store_using-React/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/pizzaLogo.fcdc67e6.png": "/Pizza_store_using-React/static/media/pizzaLogo.fcdc67e6.png",
+    "static/media/vegan.52cbfe9e.jpg": "/Pizza_store_using-React/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.606a9781.js",
+    "static/js/2.1e55cc64.chunk.js",
+    "static/css/main.e310b84c.chunk.css",
+    "static/js/main.f62f7b3e.chunk.js"
+  ]
+}
